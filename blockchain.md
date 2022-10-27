@@ -10,25 +10,11 @@ def
 
 def
 
-#### L0
-
-def
-
-#### L1
-
-def
-
-#### L2
-
-def
-
-#### L3
-
-def
-
-#### Bridges
-
-def
+* L0:
+* L1:
+* L2:
+* L3:
+* Bridges:
 
 ### Computing
 
