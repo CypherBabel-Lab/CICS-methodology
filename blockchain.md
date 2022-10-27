@@ -4,7 +4,7 @@ The Blockchain Sector comprises companies, organizations, or projects engaged in
 
 ## Blockchain Infrastructure
 
-def
+The Blockchain Infrastructure Industry Group comprises companies, organizations, or projects engaged in smart contract protocol, computing infrastructure, storage infrastructure, and network infrastructure technologies.
 
 ### Smart Contract Protocols
 
