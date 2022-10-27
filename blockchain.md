@@ -20,13 +20,33 @@ def
 
 def
 
+* Computing Protocols:
+
 ### Storage
 
 def
+
+* Storage Protocols
 
 ### Network
 
 def
 
+* Network Protocols
+
 ## Diversified Blockchain Services
 
+def
+
+### Blockchain Data Service
+
+def
+
+* Off-chain Data Services:
+* On-chain Data Services:
+
+### Blockchain As A Service
+
+def
+
+* Blockchain As A Service
