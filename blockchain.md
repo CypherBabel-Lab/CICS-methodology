@@ -8,12 +8,12 @@ The Blockchain Infrastructure Industry Group comprises companies, organizations,
 
 ### Smart Contract Protocols
 
-The Smart Contract Protocols Industry comprises companies, organizations, or projects engaged in Layer 0, Layer 1, Layer 2, Layer 3, and Bridges technologies.
+The Smart Contract Protocols Industry comprises companies, organizations, or projects engaged in Layer 0, Layer 1, Layer 2, Layer 3, and Bridges which are based on smart contract technologies.
 
-* L0:&#x20;
-* L1:
-* L2:
-* L3:
+* Layer 0: Companies, organizations, or projects that focus on delivering protocols, frameworks, or blockchains that enable developers to build multiple blockchains that can be designed to each serve a specific purpose, tailed to their exact requirement while optimizing 1 or 2 dimensions of the scalability trilemma. It allows cross-chain interoperability for the blockchains created on top of it.
+* Layer 1:&#x20;
+* Layer 2:
+* Layer 3:
 * Bridges:
 
 ### Computing
