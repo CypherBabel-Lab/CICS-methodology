@@ -12,8 +12,8 @@ The Smart Contract Protocols Industry comprises companies, organizations, or pro
 
 * Layer 0: Companies, organizations, or projects that focus on delivering protocols, frameworks, or blockchains that enable developers to build multiple blockchains that can be designed to each serve a specific purpose, tailed to their exact requirement while optimizing 1 or 2 dimensions of the scalability trilemma. Layer 0 allows cross-chain interoperability for the blockchains created on top of it.
 * Layer 1: Companies, organizations, or projects that focus on delivering protocols, frameworks, or blockchains that validate and execute transactions without depending on external systems. Layer 1 is the base level of the blockchain infrastructure, and has its own consensus mechanism and native cryptocurrency.
-* Layer 2: Companies, organizations, or projects that focus on protocols or blockchains that solve different problems that arise in Layer 1. Layer 2 can also be defined as a scaling solution for Layer 1 and inherits security from it.&#x20;
-* Layer 3:
+* Layer 2: Companies, organizations, or projects that focus on protocols or frameworks, or blockchains that solve different problems that arise in Layer 1. Layer 2 can also be defined as a scaling solution for Layer 1 and inherits security from it.&#x20;
+* Layer 3: NEED MORE RESEARCH.
 * Bridges:
 
 ### Computing
