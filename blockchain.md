@@ -20,13 +20,13 @@ The Smart Contract Protocols Industry comprises companies, organizations, or pro
 
 The Computing Industry comprises companies, organizations, or projects engaged in computing protocols.
 
-* Computing Protocols:
+* Computing Protocols: Companies, organizations, or projects that focus on providing general computing protocols or frameworks with decentralized CPU and GPU resources.
 
 ### Storage
 
 The Storage Industry comprises companies, organizations, or projects engaged in storage protocols.
 
-* Storage Protocols:
+* Storage Protocols: Companies, organizations, or projects that focus on providing general storage protocols or frameworks with decentralized storage resources.
 
 ### Network
 
