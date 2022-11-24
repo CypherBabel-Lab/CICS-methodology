@@ -26,13 +26,13 @@ The Computing Industry comprises companies, organizations, or projects engaged i
 
 The Storage Industry comprises companies, organizations, or projects engaged in storage protocols.
 
-* Storage Protocols: Companies, organizations, or projects that focus on providing general storage protocols or frameworks with decentralized storage resources.
+* Storage Protocols: Companies, organizations, or projects that focus on providing storage protocols or frameworks with decentralized storage resources.
 
 ### Network
 
 The Network Industry comprises companies, organizations, or projects engaged in network protocols.
 
-* Network Protocols:
+* Network Protocols: Companies, organizations, or projects that focus on providing network protocols or frameworks with decentralized network resources.
 
 ## Diversified Blockchain Services
 
