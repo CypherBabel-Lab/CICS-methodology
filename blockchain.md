@@ -42,11 +42,11 @@ The Diversified Blockchain Services Industry Group comprises companies, organiza
 
 The Blockchain Data Service Industry comprises companies, organizations, or projects engaged in Off-chain Data Services and On-chain Data Services.
 
-* Off-chain Data Services:
-* On-chain Data Services:
+* Off-chain Data Services: Companies, organizations, or projects engaged in providing technologies or services based on off-chain data.
+* On-chain Data Services: Companies, organizations, or projects engaged in providing technologies or services based on on-chain data.
 
 ### Blockchain As A Service
 
 The Blockchain As A Service Industry comprises companies, organizations, or projects engaged in Blockchain As A Service field.
 
-* Blockchain As A Service
+* Blockchain As A Service: Companies, organizations, or projects engaged in providing the creation, management, and maintenance services of blockchain infrastructure (mostly cloud-based).
