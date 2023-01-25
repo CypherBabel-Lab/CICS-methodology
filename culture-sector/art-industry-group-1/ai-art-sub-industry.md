@@ -1,2 +1,0 @@
-# AI Art (Sub-industry)
-
