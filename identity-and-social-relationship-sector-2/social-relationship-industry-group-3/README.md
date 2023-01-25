@@ -1,2 +1,2 @@
-# Social Relationships - Industry Group(3)
+# Social Relationship - Industry Group(3)
 
