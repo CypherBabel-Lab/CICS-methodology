@@ -1,2 +1,0 @@
-# Decentralized Derivatives (Sub-industry)
-
