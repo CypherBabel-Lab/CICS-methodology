@@ -12,7 +12,7 @@ The decentralized exchange industry contains companies, organizations, and proje
 
 def
 
-### Exchange Services (Sub-industry)
+### Decentralized Exchange Services (Sub-industry)
 
 def
 
@@ -22,11 +22,11 @@ def
 
 The decentralized financial services comprise companies, organizations, and projects engaged in deposits & loans, liquidity services, and decentralized derivatives.&#x20;
 
-### Deposits & Loans (Sub-industry)
+### Decentralized Deposits & Loans (Sub-industry)
 
 def
 
-### Liquidity Services (Sub-industry)
+### Decentralized Liquidity Services (Sub-industry)
 
 def
 
