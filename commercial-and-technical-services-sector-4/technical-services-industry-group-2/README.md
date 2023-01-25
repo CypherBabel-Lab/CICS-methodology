@@ -15,3 +15,17 @@ def
 ### Middleware (Sub-industry)
 
 def
+
+
+
+## Industry-Specific Technical Services (Industry)
+
+The Industry-Specific Technical Services Industry comprises companies, organizations, and projects engaged in IoT and privacy.
+
+### IoT (Sub-industry)
+
+def
+
+### Privacy (Sub-industry)
+
+def
