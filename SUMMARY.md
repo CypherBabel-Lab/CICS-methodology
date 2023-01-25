@@ -3,7 +3,7 @@
 * [Summary](README.md)
 * [Financials (Sector)](<README (1).md>)
   * [Currency (Industry Group)](financials-sector-4/currency-industry-group-2/README.md)
-  * [Decentralized Finance (Industry Group)](financials-sector/decentralized-finance-industry-group.md)
+  * [Decentralized Finance (Industry Group)](financials-sector-4/decentralized-finance-industry-group-2/README.md)
   * [Centralized Finance - Industry Group(2)](financials-sector-4/centralized-finance-industry-group-2/README.md)
     * [Centralized Exchange - Industry(1)](financials-sector-4/centralized-finance-industry-group-2/centralized-exchange-industry-1/README.md)
       * [Centralized Exchange (Sub-industry)](financials-sector-4/centralized-finance-industry-group-2/centralized-exchange-industry-1/centralized-exchange-sub-industry.md)
