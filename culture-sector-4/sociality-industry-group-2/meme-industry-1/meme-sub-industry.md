@@ -1,3 +1,0 @@
-# Meme (Sub-industry)
-
-M

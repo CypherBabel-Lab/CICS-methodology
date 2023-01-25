@@ -1,2 +1,0 @@
-# Utility DAO (Sub-industry)
-

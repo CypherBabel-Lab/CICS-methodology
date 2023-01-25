@@ -1,2 +1,0 @@
-# Platform & Services (Sub-industry)
-

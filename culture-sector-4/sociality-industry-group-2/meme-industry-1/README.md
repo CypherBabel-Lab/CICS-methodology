@@ -1,2 +1,0 @@
-# Meme -Industry(1)
-
