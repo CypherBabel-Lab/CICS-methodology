@@ -1,2 +1,0 @@
-# Stablecoins - Industry(2)
-

@@ -1,2 +1,0 @@
-# Transparent Currency (Sub-industry)
-
