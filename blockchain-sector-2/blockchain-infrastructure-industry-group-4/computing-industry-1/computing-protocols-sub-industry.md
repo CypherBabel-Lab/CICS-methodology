@@ -1,2 +1,0 @@
-# Computing Protocols (Sub-industry)
-

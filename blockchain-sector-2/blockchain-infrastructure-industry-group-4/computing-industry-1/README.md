@@ -1,2 +1,0 @@
-# Computing - Industry(1)
-

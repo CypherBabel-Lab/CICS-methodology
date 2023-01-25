@@ -1,2 +1,0 @@
-# Storage - Industry(1)
-

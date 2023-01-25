@@ -1,2 +1,0 @@
-# Storage Protocols (Sub-industry)
-
