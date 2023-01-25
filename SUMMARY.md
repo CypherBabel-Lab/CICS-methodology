@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Summary](README.md)
 * [Financials - Sector(4)](<README (1).md>)
   * [Currency - Industry Group(2)](financials-sector-4/currency-industry-group-2/README.md)
     * [Decentralized Currency - Industry(2)](financials-sector-4/currency-industry-group-2/decentralized-currency-industry-2/README.md)
