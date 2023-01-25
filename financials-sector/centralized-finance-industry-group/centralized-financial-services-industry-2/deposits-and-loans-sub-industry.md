@@ -1,2 +1,0 @@
-# Deposits & Loans (Sub-industry)
-
