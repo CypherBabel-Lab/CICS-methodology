@@ -11,3 +11,11 @@ The Metaverse Industry comprises companies, organizations, and projects engaged 
 ### Metaverse (Sub-industry)
 
 def
+
+### Blockchain Gaming (Sub-industry)
+
+def
+
+### Metaverse Platforms & Services (Sub-industry)
+
+def

@@ -13,7 +13,7 @@
   * [Entertainment (Industry Group)](culture-sector-4/entertainment-industry-group-1/README.md)
   * [Sociality (Industry Group)](culture-sector-4/sociality-industry-group-2/README.md)
   * [Media (Industry Group)](culture-sector-4/media-industry-group-3/README.md)
-  * [Art (Industry Group)](culture-sector/art-industry-group.md)
+  * [Art (Industry Group)](culture-sector-4/art-industry-group-1/README.md)
 * [Commercial & Technical Services - Sector(4)](commercial-and-technical-services.md)
   * [Marketing & Consumer Services - Industry Group(1)](commercial-and-technical-services-sector-4/marketing-and-consumer-services-industry-group-1/README.md)
     * [Diversified Marketing & Consumer Services - Industry(2)](commercial-and-technical-services-sector-4/marketing-and-consumer-services-industry-group-1/diversified-marketing-and-consumer-services-industry-2/README.md)

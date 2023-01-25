@@ -22,6 +22,6 @@ The DAO Industry comprises companies, organizations, and projects engaged in DAO
 
 def
 
-### Utility DAO
+### Utility DAO (Sub-industry)
 
 def
