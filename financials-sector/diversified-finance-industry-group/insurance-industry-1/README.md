@@ -1,2 +1,0 @@
-# Insurance - Industry(1)
-

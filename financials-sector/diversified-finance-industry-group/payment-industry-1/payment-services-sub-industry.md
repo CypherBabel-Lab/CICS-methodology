@@ -1,2 +1,0 @@
-# Payment Services (Sub-industry)
-
