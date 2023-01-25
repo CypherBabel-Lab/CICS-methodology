@@ -1,2 +1,0 @@
-# Certificate Services (Sub-industry)
-

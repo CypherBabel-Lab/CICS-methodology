@@ -1,2 +1,0 @@
-# Education Services (Sub-industry)
-
