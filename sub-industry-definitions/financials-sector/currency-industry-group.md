@@ -16,12 +16,12 @@ Companies, organizations, or projects that issue, operate, and maintain one or m
 A privacy currency is a type of cryptocurrency that uses technologies, such as Zero Knowledge Proof, to make it very difficult to link an individual to a transaction providing anonymity to parties involved and confidentiality of details of the transaction like the amount and transaction data.
 {% endhint %}
 
-### > Transparent Currency (Sub-industry)
+### Transparent Currency (Sub-industry)
 
 Companies, organizations, or projects that issue, operate, and maintain one or multiple transparent currencies.
 
 {% hint style="info" %}
-是指一个完全公开透明的去中心化账本，用户的交易细节、钱包地址、余额等信息都可以被验证或追踪。
+A transparent currency is a type of cryptocurrency that uses technologies, such as cryptography, to secure transactions while making the transaction details, like addresses, amounts, and other transaction data, completely transparent, traceable and verifiable.
 {% endhint %}
 
 
