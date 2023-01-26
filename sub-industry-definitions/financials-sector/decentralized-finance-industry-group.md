@@ -12,11 +12,11 @@ The decentralized exchange industry contains companies, organizations, and proje
 
 Companies, organizations, or projects that operate and maintain decentralized exchanges.
 
-> A decentralized exchange is&#x20;
+> A decentralized exchange, known as DEX, is a peer-to-peer marketplace constructed with a suite of smart contracts, where cryptocurrencey traders make transactions directly without handing over management of their cryptocurrency to an intermediary or custodian.
 
 ### Decentralized Exchange Services (Sub-industry)
 
-def
+Providers of financial services relating to DEXs, such as liquidity providers.
 
 
 
