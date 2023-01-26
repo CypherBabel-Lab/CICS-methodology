@@ -16,12 +16,12 @@ Companies, organizations, or projects that issue, operate, and maintain one or m
 A privacy currency is a type of cryptocurrency that uses technologies, such as Zero Knowledge Proof, to make it very difficult to link an individual to a transaction providing anonymity to parties involved and confidentiality of details of the transaction like the amount and transaction data.
 {% endhint %}
 
-### > Transparent Currency (Sub-industry)
+### Transparent Currency (Sub-industry)
 
 Companies, organizations, or projects that issue, operate, and maintain one or multiple transparent currencies.
 
 {% hint style="info" %}
-是指一个完全公开透明的去中心化账本，用户的交易细节、钱包地址、余额等信息都可以被验证或追踪。
+A transparent currency is a type of cryptocurrency that uses technologies, such as cryptography, to secure transactions while making the transaction details, like addresses, amounts, and other transaction data, completely transparent, traceable and verifiable.
 {% endhint %}
 
 
@@ -32,8 +32,16 @@ The Stablecoin Industry comprises companies, organizations, or projects engaged 
 
 ### > Decentralized Stablecoin (Sub-industry)
 
-ggg
+Companies, organizations, or projects that issue, operate, and maintain one or multiple decentralized stablecoins.
+
+{% hint style="info" %}
+A decentralized stablecoin is a type of cryptocurrency that is algorithmic and not backed by any central authority, many of which are set at a 1:1 ratio with particular fiat currencies such as U.S. dollars. It can either be crypto-collateralized or non-collateralized.
+{% endhint %}
 
 ### > Centralized Stablecoin (Sub-industry)
 
-ggg
+Companies, organizations, or projects that issue, operate, and maintain one or multiple centralized stablecoins.
+
+{% hint style="info" %}
+A centralized stablecoin is a type of cryptocurrency pegged to real-world assets, cash, or commodities using algorithms and is backed by some central authority with centralized reserves. They usually claim to maintain an exchange rate of 1:1 with particular fiat currencies such as U.S. dollars.
+{% endhint %}
