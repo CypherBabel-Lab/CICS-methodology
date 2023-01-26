@@ -1,2 +1,0 @@
-# Social Protocols (Sub-industry)
-

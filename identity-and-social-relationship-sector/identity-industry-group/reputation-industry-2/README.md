@@ -1,2 +1,0 @@
-# Reputation - Industry(2)
-
