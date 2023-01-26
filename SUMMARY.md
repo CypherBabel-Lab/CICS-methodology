@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+  * [CICS Overview](introduction/cics-overview.md)
 * [CICS Sub-Industry Definitions](sub-industry-definitions/README.md)
   * [Financials (Sector)](sub-industry-definitions/financials-sector/README.md)
     * [Currency (Industry Group)](sub-industry-definitions/financials-sector/currency-industry-group.md)
