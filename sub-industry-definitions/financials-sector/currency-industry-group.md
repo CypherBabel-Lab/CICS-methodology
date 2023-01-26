@@ -8,7 +8,7 @@ The Currency Industry Group contains companies, organizations, or projects invol
 
 The Decentralized Currency Industry comprises companies, organizations, or projects engaged in privacy currency and transparent currency.
 
-### >>  Privacy Currency (Sub-industry)
+### Privacy Currency (Sub-industry)
 
 Companies, organizations, or projects that issue, operate, and maintain one or multiple privacy currencies.
 
