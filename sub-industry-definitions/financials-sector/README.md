@@ -8,8 +8,7 @@ The Financials Sector comprises companies, organizations, or projects involved i
 |                           |                                      | [Transparent Currency](currency-industry-group.md#transparent-currency-sub-industry)                                      |
 |                           | Stablecoin (2)                       | [Decentralized Stablecoin](currency-industry-group.md#decentralized-stablecoin-sub-industry)                              |
 |                           |                                      | [Centralized Stablecoin](currency-industry-group.md#centralized-stablecoin-sub-industry)                                  |
-| Decentralized Finance (2) | Decentralized Exchange (2)           | [Decentralized Exchange](decentralized-finance-industry-group.md#decentralized-exchange-sub-industry)                     |
-|                           |                                      | [Decentralized Exchange Services](decentralized-finance-industry-group.md#exchange-services-sub-industry)                 |
+| Decentralized Finance (2) | Decentralized Exchange (1)           | [Decentralized Exchange](decentralized-finance-industry-group.md#decentralized-exchange-sub-industry)                     |
 |                           | Decentralized Financial Services (3) | [Decentralized Deposits & Loans](decentralized-finance-industry-group.md#deposits-and-loans-sub-industry)                 |
 |                           |                                      | [Decentralized Liquidity Services](decentralized-finance-industry-group.md#decentralized-liquidity-services-sub-industry) |
 |                           |                                      | [Decentralized Derivatives](decentralized-finance-industry-group.md#decentralized-derivatives-sub-industry)               |

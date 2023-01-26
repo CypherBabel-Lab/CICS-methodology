@@ -14,10 +14,6 @@ Companies, organizations, or projects that operate and maintain decentralized ex
 
 > A decentralized exchange, known as DEX, is a peer-to-peer marketplace constructed with a suite of smart contracts, where cryptocurrencey traders make transactions directly without handing over management of their cryptocurrency to an intermediary or custodian.
 
-### Decentralized Exchange Services (Sub-industry)
-
-Providers of financial services relating to DEXs, such as liquidity providers.
-
 
 
 ## Decentralized Financial Services (Industry)
@@ -26,13 +22,13 @@ The decentralized financial services comprise companies, organizations, and proj
 
 ### Decentralized Deposits & Loans (Sub-industry)
 
-Companies, organizations, or projects that operate and maintain decentralized exchanges.
+Companies, organizations, or projects that engaged in providing protocols, platforms, or services of decentralized deposits & loans.&#x20;
 
-指提供借贷服务的协议或去中心化平台，使用智能合约来锁定抵押品、发放利息及贷款，并进行清算； Deposits是指用户存入加密货币，借贷平台支付利息，通常利息是crypto assets，接收存款的平台可以使用存入的资金借给借款人或用于其他投资目的； Loans是指用户可以借入法币或其他加密资产，包含有抵押的贷款、无抵押贷款、信用额度以及闪电贷；
+> Decentralized deposits & loans are realized by smart contracts.  Users normally deposit or loan fiat or cryptocurrency.
 
 ### Decentralized Liquidity Services (Sub-industry)
 
-def
+Providers of decentralized liquidity services.
 
 ### Decentralized Derivatives (Sub-industry)
 
