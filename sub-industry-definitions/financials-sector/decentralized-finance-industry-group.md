@@ -22,13 +22,13 @@ The decentralized financial services comprise companies, organizations, and proj
 
 ### Decentralized Deposits & Loans (Sub-industry)
 
-Companies, organizations, or projects that engaged in providing protocols, platforms, or services of decentralized deposits & loans.&#x20;
+Companies, organizations, or projects that provide protocols, platforms, or services of decentralized deposits & loans, or deposits & loans to DEXs.&#x20;
 
 > Decentralized deposits & loans are realized by smart contracts.  Users normally deposit or loan fiat or cryptocurrency.
 
-### Decentralized Liquidity Services (Sub-industry)
+### Decentralized Liquidity (Sub-industry)
 
-Providers of decentralized liquidity services.
+Companies, organizations, or projects that provide protocols, platforms, or services of decentralized liquidity or liquidity to DEXs.&#x20;
 
 ### Decentralized Derivatives (Sub-industry)
 
