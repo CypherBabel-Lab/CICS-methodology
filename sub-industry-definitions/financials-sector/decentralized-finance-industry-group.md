@@ -26,7 +26,9 @@ The decentralized financial services comprise companies, organizations, and proj
 
 ### Decentralized Deposits & Loans (Sub-industry)
 
-def
+Companies, organizations, or projects that operate and maintain decentralized exchanges.
+
+指提供借贷服务的协议或去中心化平台，使用智能合约来锁定抵押品、发放利息及贷款，并进行清算； Deposits是指用户存入加密货币，借贷平台支付利息，通常利息是crypto assets，接收存款的平台可以使用存入的资金借给借款人或用于其他投资目的； Loans是指用户可以借入法币或其他加密资产，包含有抵押的贷款、无抵押贷款、信用额度以及闪电贷；
 
 ### Decentralized Liquidity Services (Sub-industry)
 
@@ -35,6 +37,8 @@ def
 ### Decentralized Derivatives (Sub-industry)
 
 def
+
+为crypto assets提供衍生品的合成、流转等服务的平台或供应商，该衍生品是onchain的
 
 
 
