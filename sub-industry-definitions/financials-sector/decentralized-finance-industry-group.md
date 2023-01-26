@@ -30,11 +30,10 @@ Companies, organizations, or projects that provide protocols, platforms, or serv
 
 Companies, organizations, or projects that provide protocols, platforms, or services of decentralized liquidity.&#x20;
 
+> Decentralized liquidity are realized by smart contracts.&#x20;
+
 ### Decentralized Derivatives (Sub-industry)
 
-def
+Companies, organizations, or projects that provide protocols, platforms, or services of decentralized derivatives.&#x20;
 
-为crypto assets提供衍生品的合成、流转等服务的平台或供应商，该衍生品是onchain的
-
-
-
+> Decentralized derivatives are realized by smart contracts.
