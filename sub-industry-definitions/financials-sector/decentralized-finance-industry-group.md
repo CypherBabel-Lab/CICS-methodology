@@ -10,7 +10,7 @@ The decentralized exchange industry contains companies, organizations, and proje
 
 ### Decentralized Exchange (Sub-industry)
 
-def
+Companies, organizations, or projects that operate and manage one or multiple privacy currencies.
 
 ### Decentralized Exchange Services (Sub-industry)
 
