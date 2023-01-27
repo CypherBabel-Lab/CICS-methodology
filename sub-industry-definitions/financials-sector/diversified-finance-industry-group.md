@@ -12,9 +12,7 @@ The Payment Industry includes companies, organizations, and projects involved in
 
 Companies, organizations, or projects that provide products or services of payment related to crypto assets. Those in the Currency Industry Group are excluded.
 
-> 除了支付货币外，为crypto finance提供支付服务，或提供crypto assets支付服务的供应商.
->
-> 为crypto finance提供支付服务的平台或工具服务商
+
 
 
 
