@@ -28,4 +28,4 @@ Companies, organizations, and projects engaged in providing IoT technologies, pr
 
 ### Privacy (Sub-industry)
 
-def
+Companies, organizations, and projects engaged in providing privacy technologies, products, and services for the crypto universe. Also include companies, organizations, and projects that use decentralized technologies to deliver such products and services.
