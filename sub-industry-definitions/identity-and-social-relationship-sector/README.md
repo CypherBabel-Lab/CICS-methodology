@@ -4,7 +4,7 @@ The Identity & Social Relationship Sector comprises companies, organizations, an
 
 | Industry Group           | Industry                          | Sub-industry                                                                                                                       |
 | ------------------------ | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Identity (4)             | Decentralized Identity (2)        | [Decentralized Identity](identity-industry-group.md#decentralized-identity-sub-industry)                                           |
+| Identity (4)             | Decentralized Identity (2)        | [Decentralized Identity Protocols](identity-industry-group.md#decentralized-identity-sub-industry)                                 |
 |                          |                                   | [Diversified Decentralized Identity Services](identity-industry-group.md#diversified-decentralized-identity-services-sub-industry) |
 |                          | Digital Identity (1)              | [Digital Identity](identity-industry-group.md#digital-identity-sub-industry)                                                       |
 |                          | Reputation (2)                    | [Reputation Services](identity-industry-group.md#reputation-services-sub-industry)                                                 |

@@ -12,7 +12,7 @@ The Decentralized Identity Industry comprises companies, organizations, and proj
 
 Companies, organizations, and projects engaged in providing technologies and products of decentralized identity.
 
-> Decentralized identity is a self-owned, independent identity that enables trusted data exchange.  Such decentralized identity management includes an approach to identity and access administration that allows people to generate, manage and control their personally identifiable information without a centralized third party like a registry, identity provider or certification authority.
+> Decentralized identity is a self-owned, independent identity that enables trusted data exchange.  Decentralized identity allows people to generate, manage and control their personally identifiable information without a centralized third party like a registry, identity provider or certification authority.
 
 ### Diversified Decentralized Identity Services (Sub-Industry)
 
