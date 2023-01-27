@@ -10,7 +10,9 @@ The Data Aggregation Services Industry comprises companies, organizations, and p
 
 ### Data Aggregation Services (Sub-industry)
 
-Companies, organizations, and projects engaged in providing data aggregation technologies and products and services for the crypto universe. Also include companies, organizations, and projects that use decentralized technologies to deliver such projects and services.
+def
+
+
 
 ## Data Analysis Services (Industry)
 
@@ -18,4 +20,4 @@ The Data Analysis Services Industry comprises companies, organizations, and proj
 
 ### Data Analysis Services (Sub-industry)
 
-Companies, organizations, and projects engaged in providing data analysis technologies and products and services for the crypto universe. Also include companies, organizations, and projects that use decentralized technologies to deliver such projects and services.
+def

@@ -10,7 +10,7 @@ The Diversified Technical Services Industry comprises companies, organizations, 
 
 ### Development Services (Sub-industry)
 
-def
+Companies, organizations, and projects engaged in providing technologies, products, and services for developing technologies, software, and applications in the crypto universe, including Web3 API platforms and blockchain tools.&#x20;
 
 ### Middleware (Sub-industry)
 
