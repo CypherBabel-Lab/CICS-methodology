@@ -6,13 +6,11 @@ The Diversified Finance Industry Group comprises companies, organizations, and p
 
 ## Payment (Industry)
 
-The Payment Industry includes companies, organizations, and projects involved in payment services.
+The payment industry includes companies, organizations, and projects involved in payment services.
 
-### Payment Services (Sub-Industry)
+### Payment Services (Sub-industry)
 
-Companies, organizations, or projects that provide products or services of payment related to crypto assets. Those in the Currency Industry Group are excluded.
-
-
+def
 
 
 
@@ -20,7 +18,7 @@ Companies, organizations, or projects that provide products or services of payme
 
 The investment & funding industry includes companies, organizations, and projects involved in investment & funding services.
 
-### Investment & Funding Services (Sub-Industry)
+### Investment & Funding Services (Sub-industry)
 
 def
 
@@ -30,7 +28,7 @@ def
 
 The financial data industry includes companies, organizations, and projects involved in financial data services.
 
-### Financial Data Services (Sub-Industry)
+### Financial Data Services (Sub-industry)
 
 def
 
@@ -40,7 +38,7 @@ def
 
 The insurance industry includes companies, organizations, and projects involved in insurance services.
 
-### Insurance Services (Sub-Industry)
+### Insurance Services (Sub-industry)
 
 def
 
