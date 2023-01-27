@@ -8,13 +8,17 @@ The Identity Industry Group contains companies, organizations, and projects invo
 
 The Decentralized Identity Industry comprises companies, organizations, and projects engaged in decentralized identity protocols and diversified decentralized identity services.
 
-### Decentralized Identity (Sub-industry)
+### Decentralized Identity (Sub-Industry)
+
+Companies, organizations, and projects engaged in providing technologies and products of decentralized identity.
+
+> Decentralized identity is a self-owned, independent identity that enables trusted data exchange.  Such decentralized identity management includes an approach to identity and access administration that allows people to generate, manage and control their personally identifiable information without a centralized third party like a registry, identity provider or certification authority.
+
+### Diversified Decentralized Identity Services (Sub-Industry)
 
 def
 
-### Diversified Decentralized Identity Services (Sub-industry)
 
-def
 
 
 
@@ -22,7 +26,7 @@ def
 
 The Digital Identity Industry comprises companies, organizations, and projects engaged in digital identity.
 
-### Digital Identity (Sub-industry)
+### Digital Identity (Sub-Industry)
 
 def
 
@@ -32,11 +36,11 @@ def
 
 The Reputation Industry comprises companies, organizations, and projects engaged in reputation services and credit services.
 
-### Reputation Services (Sub-industry)
+### Reputation Services (Sub-Industry)
 
 def
 
-### Credit Services (Sub-industry)
+### Credit Services (Sub-Industry)
 
 def
 
@@ -46,10 +50,10 @@ def
 
 The Diversified Identity Services comprises companies, organizations, and projects engaged in identity analysis services and identity privacy services.
 
-### Identity Analysis Services (Sub-industry)
+### Identity Analysis Services (Sub-Industry)
 
 def
 
-### Identity Privacy Services (Sub-industry)
+### Identity Privacy Services (Sub-Industry)
 
 def\
