@@ -8,7 +8,7 @@ The Security Services Industry comprises companies, organizations, and projects 
 
 ### Security Services (Sub-industry)
 
-def
+Companies, organizations, or projects engaged in providing security technologies, products, or services for the crypto universe, including smart contract security and data security. Also include Companies, organizations, or projects using decentralized technologies to deliver security products and services.
 
 
 
