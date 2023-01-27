@@ -28,11 +28,17 @@ Companies, organizations, or projects that focus on delivering protocols, framew
 
 ### Layer 3 (Sub-industry)
 
-def
+Companies, organizations, or projects that focus on delivering protocols, frameworks, or blockchains that are classified as Layer 3 blockchains.
+
+> Layer 3 blockchains are technolgoies that ......
 
 ### Bridge (Sub-industry)
 
-def
+Companies, organizations, or projects that focus on delivering protocols or frameworks of blockchain bridges.
+
+> Bridge connect two economically and technologically separate blockchains to enable interactions between them.
+
+
 
 
 
