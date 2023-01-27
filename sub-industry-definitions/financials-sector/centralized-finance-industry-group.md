@@ -16,12 +16,16 @@ Companies, organizations, or projects that operate and maintain centralized exch
 
 ## Centralized Financial Services (Industry)
 
-The centralized financial services industry includes companies, organizations, and projects involved in centralized deposits & loans and centralized derivatives.
+The Centralized Financial Services Industry includes companies, organizations, and projects involved in centralized deposits & loans and centralized derivatives.
 
 ### Centralized Deposits & Loans (Sub-industry)
 
-def
+Companies, organizations, or projects that provide platforms or services of centralized deposits and loans.&#x20;
+
+> Centralized deposits and loans means that all the related activities are operated by centralized organizations.
 
 ### Centralized Derivatives (Sub-industry)
 
 def
+
+> ddd

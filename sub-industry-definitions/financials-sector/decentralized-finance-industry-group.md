@@ -22,7 +22,7 @@ The Decentralized Financial Services Industry comprises companies, organizations
 
 ### Decentralized Deposits & Loans (Sub-industry)
 
-Companies, organizations, or projects that provide protocols, platforms, or services of decentralized deposits & loans.&#x20;
+Companies, organizations, or projects that provide protocols, platforms, or services of decentralized deposits and loans.&#x20;
 
 > Decentralized deposits & loans are realized by smart contracts.  Users normally deposit or loan fiat or cryptocurrency.
 
