@@ -46,6 +46,4 @@ The insurance industry includes companies, organizations, and projects involved 
 
 ### Insurance Services (Sub-Industry)
 
-def
-
-##
+Companies, organizations, or projects that provide insurance services to projects in the crypto universe. And providers of insurance platforms or services using decentralized technologies.
