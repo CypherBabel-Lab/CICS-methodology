@@ -6,13 +6,13 @@ The Centralized Finance Industry Group comprises companies, organizations, and p
 
 ## Centralized Exchange (Industry)
 
-The centralized exchange industry includes companies, organizations, and projects involved in centralized exchange.
+The Centralized Exchange Industry includes companies, organizations, and projects involved in centralized exchange.
 
-### Centralized exchange (Sub-industry)
+### Centralized Exchange (Sub-industry)
 
-def
+Companies, organizations, or projects that operate and maintain centralized exchanges.
 
-
+> Centralized exchange, known as CEX, is a cryptocurrency trading platform that managed by centralized organizations, using a similar business model to traditional stock exchanges. CEXs operate using an order book system, which means that buy and sell orders are listed and sorted by the intended buy or sell price. Transactions are executed in services controlled by the centralzed organizations instead of on permissionless blockchains.
 
 ## Centralized Financial Services (Industry)
 
