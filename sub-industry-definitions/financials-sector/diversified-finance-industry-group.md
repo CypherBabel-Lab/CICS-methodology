@@ -34,7 +34,9 @@ The financial data industry includes companies, organizations, and projects invo
 
 ### Financial Data Services (Sub-Industry)
 
-def
+Providers of products and services for financial data related to crypto assets, including financial data analysis and utilization.
+
+
 
 
 
