@@ -8,10 +8,10 @@ The Art Industry Group contains companies, organizations, and projects involved 
 
 The Art Industry comprises companies, organizations, and projects engaged in human-being art and AI art.
 
-### Human-being Art (Sub-Industry)
+### Human-being Art (Sub-industry)
 
 def
 
-### AI Art (Sub-Industry)
+### AI Art (Sub-industry)
 
 def

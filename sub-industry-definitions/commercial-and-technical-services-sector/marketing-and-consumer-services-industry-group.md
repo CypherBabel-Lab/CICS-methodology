@@ -10,8 +10,8 @@ The Diversified Marketing & Consumer Services Industry comprises companies, orga
 
 ### Education Services (Sub-Industry)
 
-Companies, organizations, and projects are engaged in delivering education-related products and services for the crypto universe. Also include companies, organizations, and projects using decentralized technologies to provide such products and services.
+Companies, organizations, and projects are engaged in delivering education-related products and services for the crypto universe. Also include companies, organizations, and projects that use decentralized technologies to provide such products and services.
 
 ### Certificate Services (Sub-Industry)
 
-Companies, organizations, and projects engaged in providing certificate-related products and services for the crypto universe or using decentralized technologies to deliver such products and services.
+Companies, organizations, and projects engaged in providing certificate-related products and services for the crypto universe. Also include companies, organizations, and projects that use decentralized technologies to deliver such products and services.

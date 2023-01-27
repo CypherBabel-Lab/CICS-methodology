@@ -8,7 +8,7 @@ The Media Industry Group contains companies, organizations, and projects involve
 
 The Social Media Industry comprises companies, organizations, and projects engaged in social media.
 
-### Social Media (Sub-Industry)
+### Social Media (Sub-industry)
 
 def
 
@@ -18,11 +18,11 @@ def
 
 The Diversified Media Platform Industry comprises companies, organizations, and projects engaged in informational media and creator publishing platforms.
 
-### Informational Media (Sub-Industry)
+### Informational Media (Sub-industry)
 
 def
 
-### Creator Publishing Platforms (Sub-Industry)
+### Creator Publishing Platforms (Sub-industry)
 
 def
 
@@ -32,10 +32,10 @@ def
 
 The Diversified Media Services Industry comprises companies, organizations, and projects engaged in media network services and digital media services.
 
-### Media Network Services (Sub-Industry)
+### Media Network Services (Sub-industry)
 
 def
 
-### Digital Media Services (Sub-Industry)
+### Digital Media Services (Sub-industry)
 
 def

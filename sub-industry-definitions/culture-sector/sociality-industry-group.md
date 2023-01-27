@@ -8,7 +8,7 @@ The Sociality Industry Group contains companies, organizations, and projects inv
 
 The Meme Industry comprises companies, organizations, and projects engaged in meme.
 
-### Meme (Sub-Industry)
+### Meme (Sub-industry)
 
 def
 
@@ -18,10 +18,10 @@ def
 
 The DAO Industry comprises companies, organizations, and projects engaged in DAO.
 
-### DAO (Sub-Industry)
+### DAO (Sub-industry)
 
 def
 
-### Utility DAO (Sub-Industry)
+### Utility DAO (Sub-industry)
 
 def

@@ -8,14 +8,14 @@ The Entertainment Industry Group contains companies, organizations, and projects
 
 The Metaverse Industry comprises companies, organizations, and projects engaged in metaverse.
 
-### Metaverse (Sub-Industry)
+### Metaverse (Sub-industry)
 
 def
 
-### Blockchain Gaming (Sub-Industry)
+### Blockchain Gaming (Sub-industry)
 
 def
 
-### Metaverse Platforms & Services (Sub-Industry)
+### Metaverse Platforms & Services (Sub-industry)
 
 def
