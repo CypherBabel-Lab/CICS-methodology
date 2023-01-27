@@ -6,34 +6,36 @@ The Decentralized Finance Industry Group comprises companies, organizations, and
 
 ## Decentralized Exchange (Industry)
 
-The decentralized exchange industry contains companies, organizations, and projects engaged in decentralized exchange and exchange services.
+The Decentralized Exchange Industry contains companies, organizations, and projects engaged in decentralized exchange and exchange services.
 
-### Decentralized Exchange (Sub-industry)
+### Decentralized Exchange (Sub-Industry)
 
-Companies, organizations, or projects that operate and maintain decentralized exchanges.
+Companies, organizations, and projects that operate and maintain decentralized exchanges.
 
-> A decentralized exchange, known as DEX, is a peer-to-peer marketplace constructed with a suite of smart contracts, where cryptocurrencey traders make transactions directly without handing over management of their cryptocurrency to an intermediary or custodian.
+> Decentralized exchange, known as DEX, is a peer-to-peer marketplace constructed with a suite of smart contracts, where cryptocurrencey traders make transactions directly without handing over management of their cryptocurrency to an intermediary or custodian.
+
+
 
 
 
 ## Decentralized Financial Services (Industry)
 
-The decentralized financial services comprise companies, organizations, and projects engaged in deposits & loans, liquidity services, and decentralized derivatives.&#x20;
+The Decentralized Financial Services Industry comprises companies, organizations, and projects engaged in deposits & loans, liquidity services, and decentralized derivatives.&#x20;
 
-### Decentralized Deposits & Loans (Sub-industry)
+### Decentralized Deposits & Loans (Sub-Industry)
 
-Companies, organizations, or projects that provide protocols, platforms, or services of decentralized deposits & loans.&#x20;
+Companies, organizations, and projects that provide protocols, platforms, and services of decentralized deposits and loans.&#x20;
 
-> Decentralized deposits & loans are realized by smart contracts.  Users normally deposit or loan fiat or cryptocurrency.
+> Decentralized deposits & loans are realized by smart contracts. Users normally deposit or loan fiat or cryptocurrency.
 
-### Decentralized Liquidity (Sub-industry)
+### Decentralized Liquidity (Sub-Industry)
 
-Companies, organizations, or projects that provide protocols, platforms, or services of decentralized liquidity.&#x20;
+Companies, organizations, and projects that provide protocols, platforms, and services of decentralized liquidity.&#x20;
 
 > Decentralized liquidity are realized by smart contracts.&#x20;
 
-### Decentralized Derivatives (Sub-industry)
+### Decentralized Derivatives (Sub-Industry)
 
-Companies, organizations, or projects that provide protocols, platforms, or services of decentralized derivatives.&#x20;
+Companies, organizations, and projects that provide protocols, platforms, and services of decentralized derivatives.&#x20;
 
 > Decentralized derivatives are realized by smart contracts.
