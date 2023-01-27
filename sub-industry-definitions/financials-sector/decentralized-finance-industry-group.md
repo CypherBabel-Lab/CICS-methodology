@@ -8,7 +8,7 @@ The Decentralized Finance Industry Group comprises companies, organizations, and
 
 The Decentralized Exchange Industry contains companies, organizations, and projects engaged in decentralized exchange and exchange services.
 
-### Decentralized Exchange (Sub-industry)
+### Decentralized Exchange (Sub-Industry)
 
 Companies, organizations, or projects that operate and maintain decentralized exchanges.
 
@@ -20,19 +20,19 @@ Companies, organizations, or projects that operate and maintain decentralized ex
 
 The Decentralized Financial Services Industry comprises companies, organizations, and projects engaged in deposits & loans, liquidity services, and decentralized derivatives.&#x20;
 
-### Decentralized Deposits & Loans (Sub-industry)
+### Decentralized Deposits & Loans (Sub-Industry)
 
 Companies, organizations, or projects that provide protocols, platforms, or services of decentralized deposits and loans.&#x20;
 
 > Decentralized deposits & loans are realized by smart contracts.  Users normally deposit or loan fiat or cryptocurrency.
 
-### Decentralized Liquidity (Sub-industry)
+### Decentralized Liquidity (Sub-Industry)
 
 Companies, organizations, or projects that provide protocols, platforms, or services of decentralized liquidity.&#x20;
 
 > Decentralized liquidity are realized by smart contracts.&#x20;
 
-### Decentralized Derivatives (Sub-industry)
+### Decentralized Derivatives (Sub-Industry)
 
 Companies, organizations, or projects that provide protocols, platforms, or services of decentralized derivatives.&#x20;
 

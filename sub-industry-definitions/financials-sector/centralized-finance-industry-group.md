@@ -8,7 +8,7 @@ The Centralized Finance Industry Group comprises companies, organizations, and p
 
 The Centralized Exchange Industry includes companies, organizations, and projects involved in centralized exchange.
 
-### Centralized Exchange (Sub-industry)
+### Centralized Exchange (Sub-Industry)
 
 Companies, organizations, or projects that operate and maintain centralized exchanges.
 
@@ -18,14 +18,14 @@ Companies, organizations, or projects that operate and maintain centralized exch
 
 The Centralized Financial Services Industry includes companies, organizations, and projects involved in centralized deposits & loans and centralized derivatives.
 
-### Centralized Deposits & Loans (Sub-industry)
+### Centralized Deposits & Loans (Sub-Industry)
 
-Companies, organizations, or projects that provide platforms or services of centralized deposits and loans.&#x20;
+Companies, organizations, or projects that provide products or services of centralized deposits and loans.&#x20;
 
-> Centralized deposits and loans means that all the related activities are operated by centralized organizations.
+> Centralized deposits and loans indicate that all the related activities are operated by centralized organizations.
 
-### Centralized Derivatives (Sub-industry)
+### Centralized Derivatives (Sub-Industry)
 
-def
+Companies, organizations, or projects that provide products or services of centralized derivatives.&#x20;
 
-> ddd
+> Centralized derivatives indicate that all the related activities are operated by centralized organizations.
