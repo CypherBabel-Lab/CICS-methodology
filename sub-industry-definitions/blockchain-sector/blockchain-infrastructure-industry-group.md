@@ -10,15 +10,21 @@ The Smart Contract Protocols Industry comprises companies, organizations, and pr
 
 ### Layer 0 (Sub-industry)
 
-def
+Companies, organizations, or projects that focus on delivering protocols, frameworks, or blockchains that are classified as Layer 0 blockchains.
+
+> Layer 0 blockchains are technologies that enable developers to build multiple blockchains that can be designed to each serve a specific purpose, tailed to their exact requirement while optimizing 1 or 2 dimensions of the scalability trilemma. Layer 0 allows cross-chain interoperability for the blockchains created on top of it.
 
 ### Layer 1 (Sub-industry)
 
-def
+Companies, organizations, or projects that focus on delivering protocols, frameworks, or blockchains that are classified as Layer 1 blockchains.
+
+> Layer 1 blockchains are technologies that validate and execute transactions without depending on external systems. Layer 1 is the base level of the blockchain infrastructure, and has its own consensus mechanism and native cryptocurrency.
 
 ### Layer 2 (Sub-industry)
 
-def
+Companies, organizations, or projects that focus on delivering protocols, frameworks, or blockchains that are classified as Layer 2 blockchains.
+
+> Layer 2 blockchains are technologies that solve different problems that arise in Layer 1. Layer 2 can also be defined as a scaling solution for Layer 1 and inherits security from it.
 
 ### Layer 3 (Sub-industry)
 
