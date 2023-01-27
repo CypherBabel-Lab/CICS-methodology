@@ -8,10 +8,10 @@ The Commercial & Technical Services Industry Group contains companies, organizat
 
 The Diversified Marketing & Consumer Services Industry comprises companies, organizations, and projects engaged in education services and certificate services.
 
-### Education Services (Sub-industry)
+### Education Services (Sub-Industry)
 
-def
+Companies, organizations, and projects are engaged in delivering education-related products and services for the crypto universe. Also include companies, organizations, and projects using decentralized technologies to provide such products and services.
 
-### Certificate Services (Sub-industry)
+### Certificate Services (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in providing certificate-related products and services for the crypto universe or using decentralized technologies to deliver such products and services.

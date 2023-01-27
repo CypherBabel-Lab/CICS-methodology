@@ -8,25 +8,37 @@ The Blockchain Infrastructure Industry Group contains companies, organizations, 
 
 The Smart Contract Protocols Industry comprises companies, organizations, and projects engaged in Layer 0, Layer 1, Layer 2, Layer 3, and bridge.
 
-### Layer 0 (Sub-industry)
+### Layer 0 (Sub-Industry)
 
-def
+Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 0 blockchains.
 
-### Layer 1 (Sub-industry)
+> Layer 0 blockchains are technologies that enable developers to build multiple blockchains that can be designed to each serve a specific purpose, tailed to their exact requirement while optimizing 1 or 2 dimensions of the scalability trilemma. Layer 0 allows cross-chain interoperability for the blockchains created on top of it.
 
-def
+### Layer 1 (Sub-Industry)
 
-### Layer 2 (Sub-industry)
+Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 1 blockchains.
 
-def
+> Layer 1 blockchains are technologies that validate and execute transactions without depending on external systems. Layer 1 is the base level of the blockchain infrastructure, and has its own consensus mechanism and native cryptocurrency.
 
-### Layer 3 (Sub-industry)
+### Layer 2 (Sub-Industry)
 
-def
+Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 2 blockchains.
 
-### Bridge (Sub-industry)
+> Layer 2 blockchains are technologies that solve different problems that arise in Layer 1. Layer 2 can also be defined as a scaling solution for Layer 1 and inherits security from it.
 
-def
+### Layer 3 (Sub-Industry)
+
+Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 3 blockchains.
+
+> Layer 3 blockchains are technolgoies that ......
+
+### Bridge (Sub-Industry)
+
+Companies, organizations, and projects that focus on delivering protocols and frameworks of blockchain bridges.
+
+> Bridge connect two economically and technologically separate blockchains to enable interactions between them.
+
+
 
 
 
@@ -34,9 +46,11 @@ def
 
 The Computing Industry comprises companies, organizations, and projects engaged in computing protocols.
 
-### Computing Protocols (Sub-industry)
+### Computing Protocols (Sub-Industry)
 
-def
+Companies, organizations, and projects that focus on providing general computing protocols and frameworks with decentralized CPU and GPU resources.
+
+
 
 
 
@@ -44,9 +58,11 @@ def
 
 The Storage Industry comprises companies, organizations, and projects engaged in storage protocols.
 
-### Storage Protocols (Sub-industry)
+### Storage Protocols (Sub-Industry)
 
-def
+Companies, organizations, and projects that focus on providing storage protocols and frameworks with decentralized storage resources.
+
+
 
 
 
@@ -54,6 +70,6 @@ def
 
 The Network Industry comprises companies, organizations, and projects engaged in network protocols.
 
-### Network Protocols (Sub-industry)
+### Network Protocols (Sub-Industry)
 
-def
+Companies, organizations, and projects that focus on providing network protocols and frameworks with decentralized network resources.

@@ -10,7 +10,7 @@ The Payment Industry includes companies, organizations, and projects involved in
 
 ### Payment Services (Sub-Industry)
 
-Companies, organizations, and projects that provide products or services of payment related to crypto assets. Those in the Currency Industry Group are excluded.
+Companies, organizations, or projects that provide products or services of payment related to crypto assets. Those in the Currency Industry Group are excluded.
 
 
 
@@ -46,4 +46,4 @@ The insurance industry includes companies, organizations, and projects involved 
 
 ### Insurance Services (Sub-Industry)
 
-Companies, organizations, and projects that provide insurance services to projects in the crypto universe. Also include providers of insurance platforms and services using decentralized technologies.
+Companies, organizations, or projects that provide insurance services to projects in the crypto universe. And providers of insurance platforms or services using decentralized technologies.
