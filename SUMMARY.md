@@ -25,4 +25,3 @@
   * [Identity & Social Relationship (Sector)](sub-industry-definitions/identity-and-social-relationship-sector/README.md)
     * [Identity (Industry Group)](sub-industry-definitions/identity-and-social-relationship-sector/identity-industry-group.md)
     * [Social Relationships (Industry Group)](sub-industry-definitions/identity-and-social-relationship-sector/social-relationships-industry-group.md)
-* [Page 1](page-1.md)
