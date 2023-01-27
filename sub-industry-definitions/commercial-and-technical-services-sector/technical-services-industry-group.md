@@ -22,9 +22,9 @@ Companies, organizations, and projects engaged in providing middleware technolog
 
 The Industry-Specific Technical Services Industry comprises companies, organizations, and projects engaged in IoT and privacy.
 
-### IoT (Sub-industry)
+### Internet of Things (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in providing IoT technologies, products, and services for the crypto universe. Also include companies, organizations, and projects that use decentralized technologies to deliver such products and services.
 
 ### Privacy (Sub-industry)
 
