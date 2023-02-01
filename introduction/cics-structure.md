@@ -19,6 +19,17 @@
 |                            |                                          | <p>104030<br>Financial Data</p>                   | <p>10403010<br>Financial Data Services</p>             |
 |                            |                                          | <p>104040<br>Insurance</p>                        | <p>10404010<br>Insurance Services</p>                  |
 | <p>15</p><p>Blockchain</p> | <p>1510<br>Blockchain Infrastructure</p> | <p>151010<br>Smart Contract Protocols</p>         | <p>15101010<br>Layer 0</p>                             |
+|                            |                                          |                                                   | <p>15101020<br>Layer 1</p>                             |
+|                            |                                          |                                                   | <p>15101030<br>Layer 2</p>                             |
+|                            |                                          |                                                   | <p>15101040<br>Layer 3+</p>                            |
+|                            |                                          |                                                   | <p>15101050<br>Bridge</p>                              |
+|                            |                                          | <p>151020<br>Computing</p>                        | <p>15102010<br>Computing Protocols</p>                 |
+|                            |                                          | <p>151030<br>Storage</p>                          | <p>15103010<br>Storage Protocols</p>                   |
+|                            |                                          | <p>151040<br>Network</p>                          | <p>15104010<br>Network Protocols</p>                   |
+|                            |                                          |                                                   |                                                        |
+|                            |                                          |                                                   |                                                        |
+|                            |                                          |                                                   |                                                        |
+|                            |                                          |                                                   |                                                        |
 |                            |                                          |                                                   |                                                        |
 |                            |                                          |                                                   |                                                        |
 |                            |                                          |                                                   |                                                        |
