@@ -15,5 +15,4 @@ The Culture Sector comprises companies, organizations, and projects engaged in [
 |                   |                                | [Creator publishing Platform](media-industry-group.md#creator-publishing-platforms-sub-industry)               |
 |                   | Diversified Media Services (2) | [Media Network Services](media-industry-group.md#media-network-services-sub-industry)                          |
 |                   |                                | [Digital Media Services](media-industry-group.md#digital-media-services-sub-industry)                          |
-| Art (1)           | Art (2)                        | [Human-being Art](art-industry-group.md#human-being-art-sub-industry)                                          |
-|                   |                                | [AI Art](art-industry-group.md#ai-art-sub-industry)                                                            |
+| Art (1)           | Creative Art (1)               | [Creative Art](art-industry-group.md#human-being-art-sub-industry)                                             |

@@ -10,14 +10,12 @@ The Metaverse Industry comprises companies, organizations, and projects engaged 
 
 ### Metaverse (Sub-Industry)
 
-Companies, organizations, and projects engaged in providing technologies and products, and services relating to metaverse, excluding gaming metaverse.
+def
 
 ### Blockchain Gaming (Sub-Industry)
 
-Companies, organizations, and projects engaged in providing technologies and products, and services relating to blockchain gaming.
-
-> Blockchain gaming is the game that fully or particial operate on blockchain, or which virtual items and assets are managed on blockchain.
+def
 
 ### Metaverse Platforms & Services (Sub-Industry)
 
-Companies, organizations, and projects that provide technical or other services for the metaverse sub-industry.
+def
