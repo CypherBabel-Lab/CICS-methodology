@@ -16,21 +16,21 @@ Companies, organizations, and projects that focus on delivering protocols, frame
 
 ### Layer 1 (Sub-Industry)
 
-Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 1 blockchains.
+Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 1.
 
 > Layer 1 blockchains are technologies that validate and execute transactions without depending on external systems. Layer 1 is the base level of the blockchain infrastructure, and has its own consensus mechanism and native cryptocurrency.
 
 ### Layer 2 (Sub-Industry)
 
-Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 2 blockchains.
+Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 2.
 
 > Layer 2 blockchains are technologies that solve different problems that arise in Layer 1. Layer 2 can also be defined as a scaling solution for Layer 1 and inherits security from it.
 
 ### Layer 3+ (Sub-Industry)
 
-Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 3 blockchains.
+Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 3 and more.
 
-> Layer 3 blockchains are technolgoies that ......
+> Layer 3 blockchains are technolgoies designed for customized functionalities.
 
 ### Bridge (Sub-Industry)
 
