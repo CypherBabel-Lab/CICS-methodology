@@ -28,9 +28,9 @@ The Digital Identity Industry comprises companies, organizations, and projects e
 
 ### Digital Identity (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in developing digital identity technologies, delivering products, and providing services based on digital identity technologies.
 
-
+> A digital identity is _information used by computer systems to represent an external agent – a person, organization, application, or device_.
 
 ## Reputation (Industry)
 
