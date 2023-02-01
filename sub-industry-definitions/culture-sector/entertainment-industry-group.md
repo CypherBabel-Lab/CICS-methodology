@@ -20,4 +20,4 @@ Companies, organizations, and projects engaged in providing technologies and pro
 
 ### Metaverse Platforms & Services (Sub-Industry)
 
-def
+Companies, organizations, and projects that provide technical or other services for the metaverse sub-industry.
