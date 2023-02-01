@@ -32,17 +32,23 @@ Companies, organizations, and projects engaged in developing digital identity te
 
 > A digital identity is _information used by computer systems to represent an external agent – a person, organization, application, or device_.
 
+
+
+
+
 ## Reputation (Industry)
 
 The Reputation Industry comprises companies, organizations, and projects engaged in reputation services and credit services.
 
 ### Reputation Services (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in delivering products and providing services about reputation in the crypto universe.
 
 ### Credit Services (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in delivering products and providing services about credits in the crypto universe that is related to reputation.
+
+
 
 
 
