@@ -26,7 +26,7 @@ Companies, organizations, and projects that focus on delivering protocols, frame
 
 > Layer 2 blockchains are technologies that solve different problems that arise in Layer 1. Layer 2 can also be defined as a scaling solution for Layer 1 and inherits security from it.
 
-### Layer 3 (Sub-Industry)
+### Layer 3+ (Sub-Industry)
 
 Companies, organizations, and projects that focus on delivering protocols, frameworks, and blockchains that are classified as Layer 3 blockchains.
 
