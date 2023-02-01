@@ -10,7 +10,9 @@ The Meme Industry comprises companies, organizations, and projects engaged in me
 
 ### Meme (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in providing technologies and products, and services relating to Meme.
+
+> A meme is an idea, behavior, or style that spreads by means of imitation from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme.
 
 
 
