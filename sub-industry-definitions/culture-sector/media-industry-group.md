@@ -10,7 +10,7 @@ The Social Media Industry comprises companies, organizations, and projects engag
 
 ### Social Media (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in providing technologies and products, and services in social media, including the ones using decentralized technologies and the ones serving the crypto universe.
 
 
 
