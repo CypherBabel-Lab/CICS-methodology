@@ -30,4 +30,4 @@ Companies, organizations, and projects engaged in providing DAO protocols and or
 
 ### Utility DAO (Sub-Industry)
 
-Companies, organizations, and projects that are organized and operated as a DAO with specific utility.
+Companies, organizations, and projects that are organized and operated as a DAO with specific utility, including philanthropy, investment & venture, grant, collector, media, and social DAO.
