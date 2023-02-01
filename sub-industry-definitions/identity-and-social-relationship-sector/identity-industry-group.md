@@ -10,13 +10,13 @@ The Decentralized Identity Industry comprises companies, organizations, and proj
 
 ### Decentralized Identity (Sub-Industry)
 
-Companies, organizations, and projects engaged in providing technologies and products of decentralized identity, including DID protocols and tools.
+Companies, organizations, and projects engaged in providing technologies and products of decentralized identity.
 
-> Decentralized identity is a self-owned, independent identity that enables trusted data exchange.  It allows people to generate, manage and control their personally identifiable information without a centralized third party like a registry, identity provider or certification authority.
+> Decentralized identity is a self-owned, independent identity that enables trusted data exchange.  Decentralized identity allows people to generate, manage and control their personally identifiable information without a centralized third party like a registry, identity provider or certification authority.
 
 ### Diversified Decentralized Identity Services (Sub-Industry)
 
-Providers of services relating to decentralized identity, including DID platform operations.
+def
 
 
 
@@ -28,11 +28,7 @@ The Digital Identity Industry comprises companies, organizations, and projects e
 
 ### Digital Identity (Sub-Industry)
 
-Companies, organizations, and projects engaged in developing digital identity technologies, delivering products, and providing services based on digital identity technologies.
-
-> A digital identity is _information used by computer systems to represent an external agent – a person, organization, application, or device_.
-
-
+def
 
 
 
@@ -42,13 +38,11 @@ The Reputation Industry comprises companies, organizations, and projects engaged
 
 ### Reputation Services (Sub-Industry)
 
-Companies, organizations, and projects engaged in delivering products and providing services about reputation in the crypto universe.
+def
 
 ### Credit Services (Sub-Industry)
 
-Companies, organizations, and projects engaged in delivering products and providing services about credits in the crypto universe that is related to reputation.
-
-
+def
 
 
 
@@ -58,8 +52,8 @@ The Diversified Identity Services comprises companies, organizations, and projec
 
 ### Identity Analysis Services (Sub-Industry)
 
-Companies, organizations, and projects engaged in delivering products and providing services of identity analysis for digital identity and decentralized identity.
+def
 
 ### Identity Privacy Services (Sub-Industry)
 
-Companies, organizations, and projects engaged in delivering products and providing services of identity privacy for digital identity and decentralized identity.\
+def\

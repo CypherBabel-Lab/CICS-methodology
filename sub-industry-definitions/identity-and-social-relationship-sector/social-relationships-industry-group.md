@@ -8,9 +8,11 @@ The Social Relationships Industry Group contains companies, organizations, and p
 
 The Social Protocols Industry comprises companies, organizations, and projects engaged in social protocols.
 
-### Social Protocols (Sub-industry)
+### Social Protocols (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in developing decentralized technologies or protocols for social relationships.
+
+
 
 
 
@@ -18,9 +20,9 @@ def
 
 The Social Platforms Industry comprises companies, organizations, and projects engaged in social platforms.
 
-### Social Platforms (Sub-industry)
+### Social Platforms (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in developing and operating decentralized social platforms.
 
 
 
@@ -28,6 +30,6 @@ def
 
 The Diversified Social Services Industry comprises companies, organizations, and projects engaged in diversified social services.
 
-### Diversified Social Services (Sub-industry)
+### Diversified Social Services (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in providing diversified services relating to social relationships in the crypto universe.
