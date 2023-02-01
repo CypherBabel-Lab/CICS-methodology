@@ -58,8 +58,8 @@ The Diversified Identity Services comprises companies, organizations, and projec
 
 ### Identity Analysis Services (Sub-Industry)
 
-def
+Companies, organizations, and projects engaged in delivering products and providing services of identity analysis for digital identity and decentralized identity.
 
 ### Identity Privacy Services (Sub-Industry)
 
-def\
+Companies, organizations, and projects engaged in delivering products and providing services of identity privacy for digital identity and decentralized identity.\
