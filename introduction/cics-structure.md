@@ -29,6 +29,29 @@
 |                            | <p>1520<br>Diversified Blockchain Services</p> | <p>152010<br>Blockchain Data Services</p>         | <p>15201010<br>Off-chain Data Services</p>             |
 |                            |                                                |                                                   | <p>15201020<br>On-chain Data Services</p>              |
 |                            |                                                | <p>152020<br>Blockchain As A Service</p>          | <p>15202010<br>Blockchain As A Service</p>             |
+| <p>20<br>Culture</p>       | <p>2010<br>Entertainment</p>                   | <p>201010<br>Metaverse</p>                        | <p>20101010<br>Metaverse</p>                           |
+|                            |                                                |                                                   | <p>20101020<br>Blockchain Gaming</p>                   |
+|                            |                                                |                                                   | <p>20101030<br>Diversified Metaverse Services</p>      |
+|                            | <p>2020<br>Sociality</p>                       | <p>202010<br>Meme</p>                             | <p>20201010<br>Meme</p>                                |
+|                            |                                                | <p>202020<br>DAO</p>                              | <p>20202010<br>DAO</p>                                 |
+|                            |                                                |                                                   | <p>20202020<br>Utility DAO</p>                         |
+|                            | <p>2030<br>Media</p>                           | <p>203010<br>Social Media</p>                     | <p>20301010<br>Social Media</p>                        |
+|                            |                                                | <p>203020<br>Media Platforms</p>                  | <p>20302010<br>Informational Media</p>                 |
+|                            |                                                |                                                   | <p>20302020<br>Creator Publishing Platforms</p>        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
+|                            |                                                |                                                   |                                                        |
 |                            |                                                |                                                   |                                                        |
 |                            |                                                |                                                   |                                                        |
 |                            |                                                |                                                   |                                                        |
