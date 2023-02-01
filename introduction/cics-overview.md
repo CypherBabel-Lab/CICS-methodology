@@ -1,6 +1,6 @@
 # CICS Overview
 
-To provide the level of precision critical in the investment process, the CICS is designed with four levels of classifications that include 5 sectors, 16 industry groups, 36 industries, and 56 sub-industries.
+To provide the level of precision critical in the investment process, the CICS is designed with four levels of classifications that include 5 sectors, 16 industry groups, 37 industries, and 58 sub-industries.
 
 ## 5 Sectors:
 
