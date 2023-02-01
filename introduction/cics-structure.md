@@ -38,9 +38,9 @@
 |                            | <p>2030<br>Media</p>                           | <p>203010<br>Social Media</p>                     | <p>20301010<br>Social Media</p>                        |
 |                            |                                                | <p>203020<br>Media Platforms</p>                  | <p>20302010<br>Informational Media</p>                 |
 |                            |                                                |                                                   | <p>20302020<br>Creator Publishing Platforms</p>        |
-|                            |                                                |                                                   |                                                        |
-|                            |                                                |                                                   |                                                        |
-|                            |                                                |                                                   |                                                        |
+|                            |                                                | <p>203030<br>Media Services</p>                   | <p>20303010<br>Media Network Services</p>              |
+|                            |                                                |                                                   | <p>20303020<br>Digital Media Services</p>              |
+|                            | <p>2040<br>Art</p>                             | <p>204010<br>Creative Art</p>                     | <p>20401010<br>Creative Art</p>                        |
 |                            |                                                |                                                   |                                                        |
 |                            |                                                |                                                   |                                                        |
 |                            |                                                |                                                   |                                                        |
