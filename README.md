@@ -1,6 +1,6 @@
 # Introduction
 
-Crypto Industry Classification Standard (CICS) is a classification standard focused on the crypto universe. CICS is a four-tiered, hierarchical industry classification system. It comprises 5 Sectors, 16 Industry Groups, 37 Industries, and 58 Sub-Industries.
+Crypto Industry Classification Standard (CICS) is a classification standard focused on the crypto universe. The CICS is a four-tiered, hierarchical industry classification system that comprises 5 Sectors, 16 Industry Groups, 37 Industries, and 58 Sub-Industries. The CICS categorizes companies, organizations, and projects into five sectors based on their primary business activities: Financials, Blockchain, Culture, Commercial & Technical Services, and Identity & Social Relationships. Each sector is further divided into sub-industries, providing a more detailed level of classification. Using the CICS, you can identify trends and opportunities within specific sectors and industries and make informed investment decisions. Additionally, the CICS is also used to develop sector-specific crypto indices, such as the CIC55, MVI10, and DFI20, which provide a benchmark for performance within a particular sector. Finally, it's worth noting that the CICS is periodically reviewed and updated to ensure it remains relevant and reflective of the evolving market landscape.
 
 <figure><img src=".gitbook/assets/CICS piramid (3).png" alt=""><figcaption></figcaption></figure>
 
