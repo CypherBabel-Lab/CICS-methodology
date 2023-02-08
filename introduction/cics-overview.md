@@ -8,7 +8,7 @@ To provide the level of precision critical in the investment process, the CICS i
 * Blockchain
 * Culture
 * Commercial & Technical Services
-* Identity & Social Relationship
+* Identity & Social Relationships
 
 ## 16 Industry Groups:
 
