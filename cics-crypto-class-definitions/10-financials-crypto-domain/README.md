@@ -1,13 +1,13 @@
-# Financials (Crypto Domain)
+# 10 Financials (Crypto Domain)
 
 The Financials Crypto Domain includes cryptocurrencies and financial services related to blockchain technology, including decentralized and centralized financial products and services.
 
 | Industry Group            | Industry                             | Sub-industry                                                                                                        |
 | ------------------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| Currency (2)              | Decentralized Currency (2)           | [Privacy Currency](currency-crypto-category.md#privacy-currency-sub-industry)                                       |
-|                           |                                      | [Transparent Currency](currency-crypto-category.md#transparent-currency-sub-industry)                               |
-|                           | Stablecoin (2)                       | [Decentralized Stablecoin](currency-crypto-category.md#decentralized-stablecoin-sub-industry)                       |
-|                           |                                      | [Centralized Stablecoin](currency-crypto-category.md#centralized-stablecoin-sub-industry)                           |
+| 10 Currency (2)           | Decentralized Currency (2)           | [Privacy Currency](1010-currency-crypto-category.md#privacy-currency-sub-industry)                                  |
+|                           |                                      | [Transparent Currency](1010-currency-crypto-category.md#transparent-currency-sub-industry)                          |
+|                           | Stablecoin (2)                       | [Decentralized Stablecoin](1010-currency-crypto-category.md#decentralized-stablecoin-sub-industry)                  |
+|                           |                                      | [Centralized Stablecoin](1010-currency-crypto-category.md#centralized-stablecoin-sub-industry)                      |
 | Decentralized Finance (2) | Decentralized Exchange (1)           | [Decentralized Exchange](decentralized-finance-industry-group.md#decentralized-exchange-sub-industry)               |
 |                           | Decentralized Financial Services (3) | [Decentralized Deposits & Loans](decentralized-finance-industry-group.md#deposits-and-loans-sub-industry)           |
 |                           |                                      | [Decentralized Liquidity](decentralized-finance-industry-group.md#decentralized-liquidity-services-sub-industry)    |
