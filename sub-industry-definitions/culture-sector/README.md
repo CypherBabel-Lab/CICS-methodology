@@ -1,4 +1,4 @@
-# Culture (Sector)
+# Culture (Crypto Domain)
 
 The Culture Sector comprises companies, organizations, and projects engaged in [entertainment](entertainment-industry-group.md), [sociality](sociality-industry-group.md), [media](media-industry-group.md), and [art](art-industry-group.md).
 

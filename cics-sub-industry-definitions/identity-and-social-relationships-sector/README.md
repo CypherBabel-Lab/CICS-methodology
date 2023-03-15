@@ -1,4 +1,4 @@
-# Identity & Social Relationship (Sector)
+# Identity & Social Relationships (Sector)
 
 The Identity & Social Relationship Sector comprises companies, organizations, and projects engaged in [identity](identity-industry-group.md) and [social relationships](social-relationships-industry-group.md).
 

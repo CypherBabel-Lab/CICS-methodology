@@ -1,4 +1,4 @@
-# Commercial & Technical Services (Sector)
+# Commercial & Technical Services (Crypto Domain)
 
 The Commercial & Technical Services Sector includes companies, organizations, and projects involved in [marketing & consumer services](marketing-and-consumer-services-industry-group.md), [security & auditing services](security-and-auditing-services-industry-group.md), [data services](data-services-industry-group.md), and [technical services](technical-services-industry-group.md).
 
