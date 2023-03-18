@@ -50,7 +50,7 @@ Companies, organizations, and projects that provide non-custodial wallets techno
 
 ## 102030 Decentralized Derivatives (Crypto Sub-category)
 
-The Decentralized Derivatives Crypto Sub-category comprises companies, organizations, and projects engaged in financial contracts that derive their value from an underlying asset, traded on decentralized platforms.
+The Decentralized Derivatives Crypto Sub-category comprises companies, organizations, and projects engaged in decentralized asset-backed assets, decentralized synthetic assets, and decentralized cross-chain assets.
 
 ### 10203010 Decentralized Asset-backed Assets (Crypto Class)
 
@@ -64,6 +64,26 @@ Companies, organizations, and projects that are involved in synthetic assets tec
 
 ### 10203030 Decentralized Cross-chain Assets (Crypto Class)
 
-Companies, organizations, and projects that provide technologies, products, or services for cross-chain assets.
+Companies, organizations, and projects that provide technologies, products, or services of cross-chain assets.
 
 > A  cross-chain asset is created by locking up native coin on its blockchain and issuing an equivalent amount of tokens on another blockchain.
+
+
+
+
+
+## 102040 Decentralized Financial Services (Crypto Sub-category)
+
+The Decentralized Financial Services Crypto Sub-category comprises companies, organizations, and projects engaged in decentralized deposits & loans, decentralized payments & remittances, decentralized insurance, decentralized financial data, and diversified decentralized financial services.
+
+### 10204010 Decentralized Deposits & Loans (Crypto Class)
+
+Companies, organizations, and projects that provide technologies, products, or services of deposits and loans based on decentralized infrastructures.
+
+> In the crypto universe, deposits and loans refer to the ability to lend and borrow cryptocurrencies or stablecoins through decentralized platforms. These platforms allow users to earn interest on their deposited assets or borrow funds using their existing cryptocurrency holdings as collateral.
+
+### 10204020 Decentralized Payments & Remittances (Crypto Class)
+
+Companies, organizations, and projects that provide technologies, products, or services of payments and remittances based on decentralized infrastructures.
+
+> Payment and remittance in the crypto universe refer to the use of cryptocurrencies as a means of exchanging value or making payments. Cryptocurrencies offer several advantages over traditional payment methods, including lower fees, faster transaction times, and greater privacy. Remittance, in particular, refers to the use of cryptocurrencies to send money across borders, often to countries where traditional financial services are not easily accessible or are prohibitively expensive.
