@@ -6,7 +6,7 @@
 * [CICS Crypto Class Definitions](sub-industry-definitions/README.md)
   * [10 Financials (Crypto Domain)](sub-industry-definitions/financials-sector/README.md)
     * [1010 Currency (Crypto Category)](sub-industry-definitions/financials-sector/currency-industry-group.md)
-    * [1020 Decentralized Finance (Crypto Category)](cics-crypto-class-definitions/10-financials-crypto-domain/1020-decentralized-finance-crypto-category.md)
+    * [1020 Decentralized Finance (Crypto Category)](sub-industry-definitions/financials-sector/decentralized-finance-industry-group.md)
     * [Centralized Finance (Industry Group)](sub-industry-definitions/financials-sector/centralized-finance-industry-group.md)
     * [Diversified Finance (Industry Group)](sub-industry-definitions/financials-sector/diversified-finance-industry-group.md)
   * [Blockchain (Crypto Domain)](sub-industry-definitions/blockchain-sector/README.md)
