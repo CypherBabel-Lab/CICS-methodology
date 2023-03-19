@@ -33,3 +33,7 @@ Companies, organizations, and projects that provide technologies, products, or s
 ### 10302020 Centralized Derivatives (Class)
 
 Companies, organizations, and projects that provide technologies, products, or services for cryptocurrency derivatives in a centralized manner.&#x20;
+
+### 10302030 Diversified Centralized Financial Services (Class)
+
+Companies, organizations, and projects that provide technologies, products, or services for financial services in a centralized manner. Deposits & loans and derivatives are excluded from this class.&#x20;
