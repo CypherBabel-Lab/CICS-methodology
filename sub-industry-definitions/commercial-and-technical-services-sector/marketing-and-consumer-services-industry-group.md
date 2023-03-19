@@ -18,4 +18,4 @@ Companies, organizations, and projects engaged in providing products and service
 
 ### 25301030 Diversified Commercial Services (Crypto Class)
 
-Companies, organizations, and projects that offer a wide range of commercial products and services within the crypto industry do not fit into more specific categories. Also include companies, organizations, and projects that use decentralized technologies to deliver such products and services.
+Companies, organizations, and projects that offer a wide range of commercial products and services within the crypto industry do not fit into more specific classes. Also include companies, organizations, and projects that use decentralized technologies to deliver such products and services.
