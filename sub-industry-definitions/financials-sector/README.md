@@ -2,7 +2,7 @@
 
 The Financials Crypto Domain includes cryptocurrencies and financial services related to blockchain technology, including decentralized and centralized financial products and services.
 
-| Industry Group                          | Industry                                                       | Sub-industry                                                       |
+| Crypto Category                         | Crypto Sub-category                                            | Crypto Class                                                       |
 | --------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------ |
 | <p>1010</p><p>Currency</p>              | <p>101010</p><p>Decentralized Currency</p>                     | <p>10101010</p><p>Privacy Currency</p>                             |
 |                                         |                                                                | <p>10101020</p><p>Transparent Currency</p>                         |

@@ -1,6 +1,6 @@
 # CICS Structure
 
-| Sector                                            | Industry Group                                      | Industry                                                         | Sub-Industry                                                           |
+| Domain                                            | Category                                            | Sub-category                                                     | Class                                                                  |
 | ------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | <p>10</p><p>Financials</p>                        | <p>1010</p><p>Currency</p>                          | <p>101010</p><p>Decentralized Currency</p>                       | <p>10101010</p><p>Privacy Currency</p>                                 |
 |                                                   |                                                     |                                                                  | <p>10101020</p><p>Transparent Currency</p>                             |
