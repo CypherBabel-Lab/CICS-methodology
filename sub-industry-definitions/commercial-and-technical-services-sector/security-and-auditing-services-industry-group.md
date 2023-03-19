@@ -20,4 +20,4 @@ The Auditing Services Crypto Sub-category comprises companies, organizations, an
 
 ### 25102010 Auditing Services (Crypto Class)
 
-Companies, organizations, and projects engaged in providing audit technologies, products, and services for the crypto universe, including code auditing and assets auditing, and evaluating the security, compliance, and performance of blockchain projects and platforms. Also include companies, organizations, and projects that use decentralized technologies to deliver such products and services.&#x20;
+Companies, organizations, and projects engaged in providing auditing technologies, products, and services for the crypto universe, including code auditing and assets auditing, and evaluating the security, compliance, and performance of blockchain projects and platforms. Also include companies, organizations, and projects that use decentralized technologies to deliver such products and services.&#x20;
