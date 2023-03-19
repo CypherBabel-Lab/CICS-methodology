@@ -22,5 +22,5 @@
     * [2530 Diversified Commercial Services (Crypto Category)](sub-industry-definitions/commercial-and-technical-services-sector/marketing-and-consumer-services-industry-group.md)
     * [2540 Technical Services (Crypto Category)](cics-crypto-class-definitions/25-commercial-and-technical-services-crypto-domain/2540-technical-services-crypto-category.md)
   * [30 Identity & Social Relationships (Crypto Domain)](cics-sub-industry-definitions/identity-and-social-relationships-sector/README.md)
-    * [3010 Identity (Crypto Category)](cics-crypto-class-definitions/30-identity-and-social-relationships-crypto-domain/3010-identity-crypto-category.md)
-    * [Social Relationships (Industry Group)](cics-sub-industry-definitions/identity-and-social-relationships-sector/social-relationships-industry-group.md)
+    * [3010 Identity (Crypto Category)](cics-sub-industry-definitions/identity-and-social-relationships-sector/identity-industry-group.md)
+    * [3020 Social Relationships (Crypto Category)](cics-crypto-class-definitions/30-identity-and-social-relationships-crypto-domain/3020-social-relationships-crypto-category.md)
