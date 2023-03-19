@@ -1,4 +1,4 @@
-# Diversified Blockchain Services (Industry Group)
+# 1520 Diversified Blockchain Services (Crypto Category)
 
 The Diversified Blockchain Services Industry Group contains companies, organizations, and projects involved in blockchain data services and blockchain as a service.
 

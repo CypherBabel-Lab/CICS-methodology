@@ -1,6 +1,6 @@
 # 15 Blockchain (Crypto Domain)
 
-The Blockchain Sector comprises companies, organizations, and projects engaged in [blockchain infrastructure](blockchain-infrastructure-industry-group.md) and [blockchain services](diversified-blockchain-services-industry-group.md).
+The Blockchain Sector comprises companies, organizations, and projects engaged in [blockchain infrastructure](../../cics-crypto-class-definitions/15-blockchain-crypto-domain/1510-blockchain-infrastructure-crypto-category.md) and [blockchain services](../../cics-crypto-class-definitions/15-blockchain-crypto-domain/1520-diversified-blockchain-services-crypto-category.md).
 
 | Crypto Category                                   | Crypto Sub-category                           | Crypto Class                                                |
 | ------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------- |
