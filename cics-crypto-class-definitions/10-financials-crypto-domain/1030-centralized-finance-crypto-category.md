@@ -18,22 +18,18 @@ Companies, organizations, and projects that operate centralized platforms for tr
 
 ### 10301030 Centralized Liquidity (Crypto Class)
 
-Companies, organizations, and projects that operate centralized platforms and services provide liquidity for cryptocurrency trading, often through order books or other matching mechanisms.
+Companies, organizations, and projects that provide technologies, products, or services that provide liquidity for cryptocurrency trading in a centralized manner, often through order books or other matching mechanisms.
 
 
 
 ## 103020 Diversified Centralized Financial Services (Crypto Sub-category)
 
-The Centralized Financial Services Industry includes companies, organizations, and projects involved in centralized deposits & loans and centralized derivatives.
+The Diversified Centralized Financial Services Crypto Sub-category includes companies, organizations, and projects involved in centralized deposits and loans, centralized derivatives, and centralized liquidity.
 
-### Centralized Deposits & Loans (Sub-Industry)
+### 10302010 Centralized Deposits & Loans (Class)
 
-Companies, organizations, and projects that provide products or services of centralized deposits and loans.&#x20;
+Companies, organizations, and projects that provide technologies, products, or services that facilitate deposits and loans in a centralized manner, such as borrowing or lending cryptocurrency through a centralized platform. The centralized platform acts as an intermediary between borrowers and lenders, and it is responsible for managing loans and deposits.
 
-> Centralized deposits and loans indicate that all the related activities are operated by centralized organizations.
+### 10302020 Centralized Derivatives (Class)
 
-### Centralized Derivatives (Sub-Industry)
-
-Companies, organizations, and projects that provide products or services of centralized derivatives.&#x20;
-
-> Centralized derivatives indicate that all the related activities are operated by centralized organizations.
+Companies, organizations, and projects that provide technologies, products, or services for cryptocurrency derivatives in a centralized manner.&#x20;
