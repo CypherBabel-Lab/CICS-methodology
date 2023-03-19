@@ -6,7 +6,7 @@ The Blockchain Infrastructure Crypto Category contains companies, organizations,
 
 ## 151010 Smart Contract Protocols (Crypto Sub-category)
 
-The Smart Contract Protocols Industry comprises companies, organizations, and projects engaged in Layer 0, Layer 1, Layer 2, and Layer 3+.
+The Smart Contract Protocols Crypto Sub-category comprises companies, organizations, and projects engaged in Layer 0, Layer 1, Layer 2, and Layer 3+.
 
 ### 15101010 Layer 0 (Crypto Class)
 
@@ -28,11 +28,11 @@ Companies, organizations, and projects that focus on delivering protocols, frame
 
 
 
-## 151020 Multi-chains (Crypto Sub-category)
+## 151020 Multi-chain (Crypto Sub-category)
 
-The Computing Industry comprises companies, organizations, and projects engaged in multi-chains protocols.
+The Multi-chain Crypto Sub-category comprises companies, organizations, and projects engaged in multi-chain.
 
-### 15102010 Multi-chains (Crypto Class)
+### 15102010 Multi-chain (Crypto Class)
 
 Companies, organizations, and projects that focus on providing technologies and platforms that enable communication, interaction, and asset transfer across multiple blockchain networks.
 
@@ -42,7 +42,7 @@ Companies, organizations, and projects that focus on providing technologies and 
 
 ## 151030 Computing (Sub-category)
 
-The Computing Industry comprises companies, organizations, and projects engaged in computing protocols.
+The Computing Crypto Sub-category comprises companies, organizations, and projects engaged in computing protocols.
 
 ### 15103010 Computing Protocols (Crypto Class)
 
@@ -54,7 +54,7 @@ Companies, organizations, and projects that focus on providing general computing
 
 ## 151040 Storage (Sub-category)
 
-The Storage Industry comprises companies, organizations, and projects engaged in storage protocols.
+The Storage Crypto Sub-category comprises companies, organizations, and projects engaged in storage protocols.
 
 ### 15104010 Storage Protocols (Crypto Class)
 
@@ -66,7 +66,7 @@ Companies, organizations, and projects that focus on providing storage protocols
 
 ## 151050 Network (Crypto Sub-category)
 
-The Network Industry comprises companies, organizations, and projects engaged in network protocols.
+The Network Crypto Sub-category comprises companies, organizations, and projects engaged in network protocols.
 
 ### 15105010 Network Protocols (Crypto Class)
 
@@ -78,7 +78,7 @@ Companies, organizations, and projects that focus on providing network protocols
 
 ## 151060 Privacy (Crypto Sub-category)
 
-The Network Industry comprises companies, organizations, and projects engaged in privacy protocols.
+The Network Crypto Sub-category comprises companies, organizations, and projects engaged in privacy protocols.
 
 ### 15106010 Privacy Protocols (Crypto Class)
 
