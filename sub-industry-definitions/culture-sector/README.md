@@ -2,7 +2,7 @@
 
 The Culture Crypto Domain comprises companies, organizations, and projects engaged in entertainment, sociality, media, and art.
 
-| Industry Group                  | Industry                                   | Sub-industry                                             |
+| Crypto Category                 | Crypto Sub-category                        | Crypto Class                                             |
 | ------------------------------- | ------------------------------------------ | -------------------------------------------------------- |
 | <p>2010</p><p>Entertainment</p> | <p>201010</p><p>Metaverse</p>              | <p>20101010</p><p>Metaverse</p>                          |
 |                                 |                                            | <p>20101020</p><p>Blockchain Gaming</p>                  |
