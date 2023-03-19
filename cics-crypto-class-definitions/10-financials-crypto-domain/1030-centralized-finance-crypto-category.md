@@ -26,14 +26,14 @@ Companies, organizations, and projects that provide technologies, products, or s
 
 The Diversified Centralized Financial Services Crypto Sub-category includes companies, organizations, and projects involved in centralized deposits and loans, centralized derivatives, and centralized liquidity.
 
-### 10302010 Centralized Deposits & Loans (Class)
+### 10302010 Centralized Deposits & Loans (Crypto Class)
 
 Companies, organizations, and projects that provide technologies, products, or services that facilitate deposits and loans in a centralized manner, such as borrowing or lending cryptocurrency through a centralized platform. The centralized platform acts as an intermediary between borrowers and lenders, and it is responsible for managing loans and deposits.
 
-### 10302020 Centralized Derivatives (Class)
+### 10302020 Centralized Derivatives (Crypto Class)
 
 Companies, organizations, and projects that provide technologies, products, or services for cryptocurrency derivatives in a centralized manner.&#x20;
 
-### 10302030 Diversified Centralized Financial Services (Class)
+### 10302030 Diversified Centralized Financial Services (Crypto Class)
 
 Companies, organizations, and projects that provide technologies, products, or services for financial services in a centralized manner. Deposits & loans and derivatives are excluded from this class.&#x20;
