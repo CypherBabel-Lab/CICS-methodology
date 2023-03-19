@@ -13,7 +13,7 @@
     * [1520 Diversified Blockchain Services (Crypto Category)](sub-industry-definitions/blockchain-sector/diversified-blockchain-services-industry-group.md)
   * [20 Culture (Crypto Domain)](sub-industry-definitions/culture-sector/README.md)
     * [2010 Entertainment (Crypto Category)](sub-industry-definitions/culture-sector/entertainment-industry-group.md)
-    * [2020 Sociality (Crypto Category)](cics-crypto-class-definitions/20-culture-crypto-domain/2020-sociality-crypto-category.md)
+    * [2020 Sociality (Crypto Category)](sub-industry-definitions/culture-sector/sociality-industry-group.md)
     * [Media (Industry Group)](sub-industry-definitions/culture-sector/media-industry-group.md)
     * [Art (Industry Group)](sub-industry-definitions/culture-sector/art-industry-group.md)
   * [Commercial & Technical Services (Crypto Domain)](sub-industry-definitions/commercial-and-technical-services-sector/README.md)

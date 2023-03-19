@@ -27,3 +27,27 @@ Companies, organizations, and projects engaged in providing DAO protocols and or
 ### 20202020 Utility DAO (Sub-Industry)
 
 Companies, organizations, and projects that are organized and operated as a DAO with specific utility, including philanthropy, investment & venture, grant, collector, media, and social DAO.
+
+
+
+
+
+## 202030 ESG (Crypto Sub-category)
+
+The ESG Crypto Sub-category comprises companies, organizations, and projects engaged in environmental, social, and governance (ESG).
+
+### 20203010 ESG (Crypto Class)
+
+Companies, organizations, and projects focused on environmental, social, and governance (ESG) factors within the crypto industry.&#x20;
+
+
+
+
+
+## 202040 Sociality Services (Crypto Sub-category)
+
+The ESG Crypto Sub-category comprises companies, organizations, and projects engaged in diversified sociality services.
+
+### 20204010 Diversified Sociality Services (Crypto Class)
+
+Companies, organizations, and projects provide various services regarding sociality in the crypto universe.
